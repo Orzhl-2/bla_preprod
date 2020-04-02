@@ -6,4 +6,5 @@ class Marabout
   
   # 3. with flag checkrun enabled 
   # 4. with flag check run disabled
+  # 5. with flag check run enabled again
 end
