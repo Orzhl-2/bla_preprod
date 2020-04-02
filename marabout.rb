@@ -3,4 +3,6 @@ class Marabout
   
   # 1. Without checkruns enabled
   # 2. Back with
+  
+  # 3. with flag checkrun enabled 
 end
